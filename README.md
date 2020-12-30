@@ -21,6 +21,14 @@ We will cover a wide array of topics rather than explore any one topic in great 
 
 There are no prerequisites for the course. *However, you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calcualtions.*
 
+## Requirements
+
+* You must bring a laptop to class for hands on participation. If you do not own a laptop, contact your department or the College of Natural Sciences to obtain a loaner for the duration of the course.
+* Install Python on the laptop you will bring to class (see instructions below).
+* Attend class both motivated and prepared to work hard!
+* Conduct yourself in a respectful manner at all times.
+* Have fun!
+
 ## Course Details
 
 * Time: TR 2:00-3:30 PM
@@ -35,14 +43,6 @@ There are no prerequisites for the course. *However, you are expected to be fami
 ## I'm confused, but my schedule makes attending office hours difficult. What do I do?
 
 **!!! POST YOUR QUESTIONS ON CANVAS** where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
-
-## Requirements
-
-* You must bring a laptop to class for hands on participation. If you do not own a laptop, contact your department or the College of Natural Sciences to obtain a loaner for the duration of the course.
-* Install Python on the laptop you will bring to class (see instructions below).
-* Attend class both motivated and prepared to work hard!
-* Conduct yourself in a respectful manner at all times.
-* Have fun!
 
 ## Academic Integrity
 
@@ -93,7 +93,7 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 ## Install GitHub Desktop (optional)
 1. Go to https://github.com and create an account if you don't already have one.
 2. Go to https://desktop.github.com and download the GitHub Desktop app.
-3. Open the app and select File->Clone Repository. Select URL and enter the URL of this repository (https://github.com/marcel-goldschen-ohm/NEU337-Spring2020), then click 'Clone'. This will download all of the files in this repository to a folder on your computer. To navigate to the folder from GitHub Desktop select Repository->Show in Finder (that's for MacOS, wording may differ on Windows machines).
+3. Open the app and select File->Clone Repository. Select URL and enter the URL of this repository (https://github.com/marcel-goldschen-ohm/NEU-365P-385L-Spring-2021), then click 'Clone'. This will download all of the files in this repository to a folder on your computer. To navigate to the folder from GitHub Desktop select Repository->Show in Finder (that's for MacOS, wording may differ on Windows machines).
 4. Whenever you want to make sure that you have the latest version of all files in the repository, select Repository->Pull to download ONLY what has changed since the last time you downloaded the repository.
 5. *To make sure you do not overwrite any homework assignment files, I recommend copying all of the homeworks into a separate folder on your computer rather than editing the files directly in the GitHub repository folder.*
 

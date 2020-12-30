@@ -58,6 +58,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to name the file `your_full_name.ipynb`.** :warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
 
+* :pencil2: **Due Jan-22**: ...
 * :pencil2: **Due Jan-29**: ...
 * :pencil2: **Due Feb-05**: ...
 * :pencil2: **Due Feb-12**: ...
@@ -79,12 +80,21 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 > 29 lectures, Midterm exam, Final exam
 
-* Jan-19: **Introduction to programming and Python**
-    * You will ...
-* Jan-21: **Introduction to Git and GitHub**
-    * You will ...
-* Jan-26:
-* Jan-28:
+* Jan-19: **Introduction to programming, Python and Jupyter notebooks**
+    * You will appreciate the need for programming in modern neuroscience.
+    * You will be introduced to some good rules of thumb for programming.
+    * You will be able to run Python code in the Jupyter notebook environment.
+    * You will understand Python's block formatting via indentation.
+    * You will be able to index and iterate over lists of values.
+* Jan-21: **Modules, NumPy (otherwise Python is just too slow and cumbersome) and Mutability**
+    * You will be able to import and use modules.
+    * You will be able to manipulate multi-dimensional data arrays using NumPy.
+    * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
+    * You will understand the difference between mutable and immutable objects.
+* Jan-26: **Introduction to Git and GitHub**
+    * You will understand the basics of version control with Git and GitHub.
+* Jan-28: **Visualizing Data**
+    * You will be able to visualize data with basic plots using Matplotlib.
 * Feb-02:
 * Feb-04:
 * Feb-09:

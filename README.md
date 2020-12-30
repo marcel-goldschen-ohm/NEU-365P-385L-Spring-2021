@@ -58,7 +58,20 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to name the file `your_full_name.ipynb`.** :warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
 
-* :pencil2: **Due ...**: ...
+* :pencil2: **Due Jan-29**: ...
+* :pencil2: **Due Feb-05**: ...
+* :pencil2: **Due Feb-12**: ...
+* :pencil2: **Due Feb-19**: ...
+* :pencil2: **Due Feb-26**: ...
+* :pencil2: **Due Mar-05**: ...
+* :pencil2: **Due Mar-12**: ...
+* :pencil2: **Due Mar-26**: ...
+* :pencil2: **Due Apr-02**: ...
+* :pencil2: **Due Apr-09**: ...
+* :pencil2: **Due Apr-16**: ...
+* :pencil2: **Due Apr-23**: ...
+* :pencil2: **Due Apr-30**: ...
+* :pencil2: **Due May-07**: ...
 
 ## Syllabus
 
@@ -66,8 +79,41 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 > 29 lectures, Midterm exam, Final exam
 
-* Jan-21-T: **Introduction to programming and Python.**
+* Jan-19: **Introduction to programming and Python**
     * You will ...
+* Jan-21: **Introduction to Git and GitHub**
+    * You will ...
+* Jan-26:
+* Jan-28:
+* Feb-02:
+* Feb-04:
+* Feb-09:
+* Feb-11:
+* Feb-16:
+* Feb-18:
+* Feb-23:
+* Feb-25:
+* Mar-02:
+* Mar-04:
+* Mar-09:
+* Mar-11: MIDTERM EXAM
+* Mar-16: SPRING BREAK
+* Mar-18: SPRING BREAK
+* Mar-23:
+* Mar-25:
+* Mar-30:
+* Apr-01:
+* Apr-06:
+* Apr-08:
+* Apr-13:
+* Apr-15:
+* Apr-20:
+* Apr-22:
+* Apr-27:
+* Apr-29:
+* May-04:
+* May-06:
+* May-??: FINAL EXAM
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.

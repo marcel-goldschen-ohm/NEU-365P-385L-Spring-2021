@@ -58,9 +58,9 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to name the file `your_full_name.ipynb`.** :warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
 
-* :pencil2: **Due Jan-22**: ...
-* :pencil2: **Due Jan-29**: ...
-* :pencil2: **Due Feb-05**: ...
+* :pencil2: **Due Jan-22**: Basics
+* :pencil2: **Due Jan-29**: NumPy
+* :pencil2: **Due Feb-05**: Random Walks
 * :pencil2: **Due Feb-12**: ...
 * :pencil2: **Due Feb-19**: ...
 * :pencil2: **Due Feb-26**: ...
@@ -80,22 +80,25 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 > 29 lectures, Midterm exam, Final exam
 
-* Jan-19: **Introduction to programming, Python and Jupyter notebooks**
+* Jan-19: **Introduction to programming, Python, and Jupyter notebooks**
     * You will appreciate the need for programming in modern neuroscience.
     * You will be introduced to some good rules of thumb for programming.
     * You will be able to run Python code in the Jupyter notebook environment.
     * You will understand Python's block formatting via indentation.
     * You will be able to index into and iterate over lists of values.
-* Jan-21: **Modules, NumPy (otherwise Python is just too slow and cumbersome) and Mutability**
+* Jan-21: **Modules, NumPy (otherwise Python is just too slow/cumbersome), and mutability**
     * You will be able to import and use modules.
     * You will be able to manipulate multi-dimensional data arrays using NumPy.
     * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
     * You will understand the difference between mutable and immutable objects.
-* Jan-26: **Introduction to Git and GitHub**
-    * You will understand the basics of version control with Git and GitHub.
-* Jan-28: **Visualizing Data**
+* Jan-26: **Visualizing data**
     * You will be able to visualize data with basic plots using Matplotlib.
-* Feb-02:
+* Jan-28: **Random walk lab**
+    * You will be able to generate random numbers.
+    * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
+    * You will appreciate the role of randomness in molecular diffusion.
+* Feb-02: **Introduction to Git and GitHub**
+    * You will understand the basics of version control with Git and GitHub.
 * Feb-04:
 * Feb-09:
 * Feb-11:

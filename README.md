@@ -1,7 +1,7 @@
 # NEU 365P/385L Spring 2021
 # Programing and Data Analysis for Modern Neuroscience
 
-**!!! PLEASE INSTALL Python and JupyterLab PRIOR TO THE FIRST CLASS** (see instructions below). If you run into any troubles, *DO NOT FRET*. First, post your questions on Canvas to get help. Second, talk to fellow students or come to office hours to get squared away. As long as you get everything installed by the end of the first week, you should be fine.
+:warning: **!!! PLEASE INSTALL Python and JupyterLab PRIOR TO THE FIRST CLASS** (see instructions below). If you run into any troubles, *DO NOT FRET*. First, post your questions on Canvas to get help. Second, talk to fellow students or come to office hours to get squared away. As long as you get everything installed by the end of the first week, you should be fine.
 
 ## Course Objective
 
@@ -56,7 +56,9 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 ## Homework
 
-Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. **Be sure to name the file `your_full_name.ipynb`.** All homework is **due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so **DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT**. Late homework is NOT acceptable.
+Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to name the file `your_full_name.ipynb`.**
+
+:warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
 
 * :pencil2: **Due ...**: ...
 

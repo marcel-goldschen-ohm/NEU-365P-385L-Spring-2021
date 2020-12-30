@@ -85,7 +85,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be introduced to some good rules of thumb for programming.
     * You will be able to run Python code in the Jupyter notebook environment.
     * You will understand Python's block formatting via indentation.
-    * You will be able to index and iterate over lists of values.
+    * You will be able to index into and iterate over lists of values.
 * Jan-21: **Modules, NumPy (otherwise Python is just too slow and cumbersome) and Mutability**
     * You will be able to import and use modules.
     * You will be able to manipulate multi-dimensional data arrays using NumPy.

@@ -56,9 +56,9 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 ## Homework
 
-Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. Be sure to name the file `your_full_name.ipynb`. Also note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
+Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. **Be sure to name the file `your_full_name.ipynb`.** Also note that uploading to Canvas can sometimes be less than instantaneous, so **DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT**. Late homework is NOT acceptable.
 
-* :pencil2: *Due ...*: ...
+* :pencil2: **Due ...**: ...
 
 ## Syllabus
 
@@ -71,7 +71,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
-2. !!! MacOS Catalina ONLY !!! If you are running MacOS Catalina, you might run into this problem: Anaconda creates a `.bash_profile` file in your home directory that needs to be renamed to `.zprofile` in Catalina (does NOT apply to older versions of MacOS).
+2. **[Hopefully this step is no longer necessary, but I'll leave these instructions just in case.]** !!! MacOS Catalina ONLY !!! If you are running MacOS Catalina, you might run into this problem: Anaconda creates a `.bash_profile` file in your home directory that needs to be renamed to `.zprofile` in Catalina (does NOT apply to older versions of MacOS).
 3. Launch Anaconda Navigator. Install JupyterLab and Spyder via the widgets in the Home tab. JupyterLab is a web-based python notebook and Spyder is an environment for running Python that is similar to MATLAB.
 
 ## Install R (optional)

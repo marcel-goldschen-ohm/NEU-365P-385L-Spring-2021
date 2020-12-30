@@ -17,6 +17,10 @@ We will cover a wide array of topics rather than explore any one topic in great 
 
 *The goal of the course is to give you enough of a basic toolset that you will have the necessary foundation to develop programs for any concept that you understand.*
 
+## Course Prerequisites
+
+There are no prerequisites for the course. *However, you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calcualtions.*
+
 ## Course Details
 
 * Time: TR 2:00-3:30 PM
@@ -31,10 +35,6 @@ We will cover a wide array of topics rather than explore any one topic in great 
 ## I'm confused, but my schedule makes attending office hours difficult. What do I do?
 
 **!!! POST YOUR QUESTIONS ON CANVAS** where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
-
-## Course Prerequisites
-
-There are no absolute prerequisites for the course, but you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calcualtions. Prior experience with programming and familiarity with matrix multiplication will be helpful, but is not necessary as they will be introduced.
 
 ## Requirements
 

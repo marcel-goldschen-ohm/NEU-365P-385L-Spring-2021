@@ -84,13 +84,18 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will appreciate the need for programming in modern neuroscience.
     * You will be introduced to some good rules of thumb for programming.
     * You will be able to run Python code in the Jupyter notebook environment.
-    * You will understand Python's block formatting via indentation.
-    * You will be able to index into and iterate over lists of values.
-* Jan-21: **Modules, NumPy (otherwise Python is just too slow/cumbersome), and mutability**
+    * You will be able to assign variables.
+    * You will be able to compare variables and values.
+    * You will understand Python code blocks.
+* Jan-21: **Lists and loops**
+    * You will be able to index into and iterate over lists.
+    * You will be able to edit lists.
+    * You will understand the difference between a reference and a copy.
+* Jan-21: **NumPy**
     * You will be able to import and use modules.
     * You will be able to manipulate multi-dimensional data arrays using NumPy.
-    * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
-    * You will understand the difference between mutable and immutable objects.
+    * You will be able to time your code.
+    * You will appreciate that without NumPy, Python would NOT be a very useful language for data analysis.
 * Jan-26: **Visualizing data**
     * You will be able to visualize data with basic plots using Matplotlib.
 * Jan-28: **Random walk lab**

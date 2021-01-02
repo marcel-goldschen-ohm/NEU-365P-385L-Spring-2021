@@ -58,10 +58,10 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to name the file `your_full_name.ipynb`.** :warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
 
-* :pencil2: **Due Jan-22**: Basics
-* :pencil2: **Due Jan-29**: NumPy
-* :pencil2: **Due Feb-05**: Random Walks
-* :pencil2: **Due Feb-12**: ...
+* :pencil2: **Due Jan-22**: if/elif/else
+* :pencil2: **Due Jan-29**: lists
+* :pencil2: **Due Feb-05**: numpy + matplotlib
+* :pencil2: **Due Feb-12**: random walks
 * :pencil2: **Due Feb-19**: ...
 * :pencil2: **Due Feb-26**: ...
 * :pencil2: **Due Mar-05**: ...
@@ -85,26 +85,27 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be introduced to some good rules of thumb for programming.
     * You will be able to run Python code in the Jupyter notebook environment.
     * You will be able to assign variables.
-    * You will be able to compare variables and values.
+    * You will be able to logically compare variables and values.
     * You will understand Python code blocks.
+    * You will be able to conditionally execute code blocks.
 * Jan-21: **Lists and loops**
-    * You will be able to index into and iterate over lists.
+    * You will be able to index into lists.
     * You will be able to edit lists.
+    * You will be able to iterate over lists.
     * You will understand the difference between a reference and a copy.
-* Jan-21: **NumPy**
-    * You will be able to import and use modules.
+* Jan-26: **NumPy**
+    * You will be able to import and us the numpy module.
     * You will be able to manipulate multi-dimensional data arrays using NumPy.
     * You will be able to time your code.
     * You will appreciate that without NumPy, Python would NOT be a very useful language for data analysis.
-* Jan-26: **Visualizing data**
+* Jan-28: **Visualizing data**
     * You will be able to visualize data with basic plots using Matplotlib.
-* Jan-28: **Random walk lab**
+* Feb-02: **Random walks**
     * You will be able to generate random numbers.
     * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
     * You will appreciate the role of randomness in molecular diffusion.
-* Feb-02: **Introduction to Git and GitHub**
+* Feb-04: **Introduction to Git and GitHub**
     * You will understand the basics of version control with Git and GitHub.
-* Feb-04:
 * Feb-09:
 * Feb-11:
 * Feb-16:

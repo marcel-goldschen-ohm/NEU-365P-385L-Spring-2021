@@ -106,7 +106,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will appreciate the role of randomness in molecular diffusion.
 * Feb-04: **Functions, classes and modules**
 * Feb-09: **... continued or Introduction to Git and GitHub**
-* Feb-11: **Time series**
+* Feb-11: **Time series and Fourier transform**
 * Feb-16: **Convolution**
 * Feb-18: **Curve fitting**
 * Feb-23: **Probability distributions of random variables**

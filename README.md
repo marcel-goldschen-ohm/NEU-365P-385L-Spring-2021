@@ -104,18 +104,17 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to generate random numbers.
     * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
     * You will appreciate the role of randomness in molecular diffusion.
-* Feb-04: **Introduction to Git and GitHub**
-    * You will understand the basics of version control with Git and GitHub.
-* Feb-09:
-* Feb-11:
-* Feb-16:
-* Feb-18:
-* Feb-23:
-* Feb-25:
-* Mar-02:
-* Mar-04:
-* Mar-09:
-* Mar-11: MIDTERM EXAM
+* Feb-04: **Functions, classes and modules**
+* Feb-09: **... continued or Introduction to Git and GitHub**
+* Feb-11: **Time series**
+* Feb-16: **Convolution**
+* Feb-18: **Curve fitting**
+* Feb-23: **Probability distributions of random variables**
+* Feb-25: **Hypothesis testing and the central limit theorem**
+* Mar-02: **Bootstrap and permutation tests**
+* Mar-04: **Maximum likelihood optimization**
+* Mar-09: TBA
+* Mar-11: **MIDTERM EXAM**
 * Mar-16: SPRING BREAK
 * Mar-18: SPRING BREAK
 * Mar-23:

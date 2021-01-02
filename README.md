@@ -66,8 +66,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * :pencil2: **Due Feb-26**: time series, filtering and curve fitting
 * :pencil2: **Due Mar-05**: probability distributions and hypothesis testing
 * :pencil2: **Due Mar-12**: bootstrap and permutation tests
-
-* :pencil2: **Due Mar-26**: MLE
+* :pencil2: **Due Mar-26**: maximum likelihood estimation
 * :pencil2: **Due Apr-02**: ...
 * :pencil2: **Due Apr-09**: ...
 * :pencil2: **Due Apr-16**: ...
@@ -113,7 +112,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Feb-23: **Probability distributions of random variables**
 * Feb-25: **Hypothesis testing and the central limit theorem**
 * Mar-02: **Bootstrap and permutation tests**
-* Mar-04: **Maximum likelihood optimization**
+* Mar-04: **Maximum likelihood estimation**
 * Mar-09: TBA
 * Mar-11: **MIDTERM EXAM**
     * Covers everything up to and including bootstrap and permutation tests.

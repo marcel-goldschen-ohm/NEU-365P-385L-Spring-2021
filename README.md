@@ -62,11 +62,12 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * :pencil2: **Due Jan-29**: lists
 * :pencil2: **Due Feb-05**: numpy + matplotlib
 * :pencil2: **Due Feb-12**: random walks
-* :pencil2: **Due Feb-19**: ...
-* :pencil2: **Due Feb-26**: ...
-* :pencil2: **Due Mar-05**: ...
-* :pencil2: **Due Mar-12**: ...
-* :pencil2: **Due Mar-26**: ...
+* :pencil2: **Due Feb-19**: project with a module, class and functions
+* :pencil2: **Due Feb-26**: time series, filtering and curve fitting
+* :pencil2: **Due Mar-05**: probability distributions and hypothesis testing
+* :pencil2: **Due Mar-12**: bootstrap and permutation tests
+
+* :pencil2: **Due Mar-26**: MLE
 * :pencil2: **Due Apr-02**: ...
 * :pencil2: **Due Apr-09**: ...
 * :pencil2: **Due Apr-16**: ...
@@ -115,6 +116,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Mar-04: **Maximum likelihood optimization**
 * Mar-09: TBA
 * Mar-11: **MIDTERM EXAM**
+    * Covers everything up to and including bootstrap and permutation tests.
 * Mar-16: SPRING BREAK
 * Mar-18: SPRING BREAK
 * Mar-23:
@@ -132,6 +134,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * May-04:
 * May-06:
 * May-??: FINAL EXAM
+    * Cummulative, everything is fair game.
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.

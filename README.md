@@ -60,19 +60,18 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 * :pencil2: **Due Jan-22**: if/elif/else
 * :pencil2: **Due Jan-29**: lists
-* :pencil2: **Due Feb-05**: numpy + matplotlib
+* :pencil2: **Due Feb-05**: numpy and matplotlib
 * :pencil2: **Due Feb-12**: random walks
-* :pencil2: **Due Feb-19**: project with a module, class and functions
-* :pencil2: **Due Feb-26**: time series, filtering and curve fitting
+* :pencil2: **Due Feb-19**: algorithm and custom module
+* :pencil2: **Due Feb-26**: time series, convolution, and filtering
 * :pencil2: **Due Mar-05**: probability distributions and hypothesis testing
-* :pencil2: **Due Mar-12**: bootstrap and permutation tests
-* :pencil2: **Due Mar-26**: maximum likelihood estimation
-* :pencil2: **Due Apr-02**: ...
-* :pencil2: **Due Apr-09**: ...
-* :pencil2: **Due Apr-16**: ...
-* :pencil2: **Due Apr-23**: ...
-* :pencil2: **Due Apr-30**: ...
-* :pencil2: **Due May-07**: ...
+* :pencil2: **Due Mar-12**: bootstrap/permutation tests and curve fitting
+* :pencil2: **Due Apr-02**: maximum likelihood estimation
+* :pencil2: **Due Apr-09**: hidden Markov model
+* :pencil2: **Due Apr-16**: multiple linear regression
+* :pencil2: **Due Apr-23**: ridge/lasso regression and cross validation
+* :pencil2: **Due Apr-30**: nonlinear regression and classification
+* :pencil2: **Due May-07**: principal component analysis
 
 ## Syllabus
 
@@ -93,6 +92,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to edit lists.
     * You will be able to iterate over lists.
     * You will understand the difference between a reference and a copy.
+
 * Jan-26: **NumPy**
     * You will be able to import and us the numpy module.
     * You will be able to manipulate multi-dimensional data arrays using NumPy.
@@ -100,39 +100,55 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will appreciate that without NumPy, Python would NOT be a very useful language for data analysis.
 * Jan-28: **Visualizing data**
     * You will be able to visualize data with basic plots using Matplotlib.
+
 * Feb-02: **Random walks**
     * You will be able to generate random numbers.
     * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
     * You will appreciate the role of randomness in molecular diffusion.
-* Feb-04: **Functions, classes and modules**
-* Feb-09: **... continued or Introduction to Git and GitHub**
-* Feb-11: **Time series and Fourier transform**
-* Feb-16: **Convolution**
-* Feb-18: **Curve fitting**
+* Feb-04: **Pandas and simple file I/O**
+
+* Feb-09: **Functions, classes and modules**
+* Feb-11: **Algorithms, pseudocode, readability, optimization, Numba**
+
+* Feb-16: **Time series and Fourier transform**
+* Feb-18: **Convolution and filtering**
+
 * Feb-23: **Probability distributions of random variables**
 * Feb-25: **Hypothesis testing and the central limit theorem**
+
 * Mar-02: **Bootstrap and permutation tests**
-* Mar-04: **Maximum likelihood estimation**
-* Mar-09: TBA
+* Mar-04: **Curve fitting**
+
+* Mar-09:
 * Mar-11: **MIDTERM EXAM**
-    * Covers everything up to and including bootstrap and permutation tests.
+    * Covers everything up to and including Mar-04 lecture material.
+    * Mar-09 lecture material will NOT be on the exam.
+
 * Mar-16: SPRING BREAK
 * Mar-18: SPRING BREAK
-* Mar-23:
-* Mar-25:
-* Mar-30:
-* Apr-01:
-* Apr-06:
-* Apr-08:
-* Apr-13:
-* Apr-15:
-* Apr-20:
-* Apr-22:
-* Apr-27:
-* Apr-29:
+
+* Mar-23: **Maximum likelihood estimation**
+* Mar-25: **Hidden Markov models
+
+* Mar-30: **Hidden Markov models
+* Apr-01: **Hidden Markov models
+
+* Apr-06: **Linear regression**
+* Apr-08: **Multiple linear regression**
+
+* Apr-13: **Ridge and lasso regression**
+* Apr-15: **Cross validation**
+
+* Apr-20: **Nonlinear regression**
+* Apr-22: **Classification**
+
+* Apr-27: **Principal component analysis**
+* Apr-29: **Principal component analysis**
+
 * May-04:
 * May-06:
-* May-??: FINAL EXAM
+
+* May-??: **FINAL EXAM**
     * Cummulative, everything is fair game.
 
 ## Install Python (required)

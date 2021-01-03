@@ -121,8 +121,6 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 * Mar-09:
 * Mar-11: **MIDTERM EXAM**
-    * Covers everything up to and including Mar-04 lecture material.
-    * Mar-09 lecture material will NOT be on the exam.
 
 * Mar-16: SPRING BREAK
 * Mar-18: SPRING BREAK
@@ -149,7 +147,6 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * May-06:
 
 * May-??: **FINAL EXAM**
-    * Cummulative, everything is fair game.
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.

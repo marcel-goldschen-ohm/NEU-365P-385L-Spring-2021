@@ -60,7 +60,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 * :pencil2: **Due Jan-22**: if/elif/else
 * :pencil2: **Due Jan-29**: lists
-* :pencil2: **Due Feb-05**: numpy and matplotlib
+* :pencil2: **Due Feb-05**: numpy and pandas
 * :pencil2: **Due Feb-12**: random walks
 * :pencil2: **Due Feb-19**: algorithm and custom module
 * :pencil2: **Due Feb-26**: time series, convolution, and filtering
@@ -98,14 +98,14 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to manipulate multi-dimensional data arrays using NumPy.
     * You will be able to time your code.
     * You will appreciate that without NumPy, Python would NOT be a very useful language for data analysis.
-* Jan-28: **Visualizing data**
-    * You will be able to visualize data with basic plots using Matplotlib.
+* Jan-28: **Pandas and simple file I/O**
 
-* Feb-02: **Random walks**
+* Feb-02: **Visualizing data**
+    * You will be able to visualize data with basic plots using Matplotlib.
+* Feb-04: **Random walks**
     * You will be able to generate random numbers.
     * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
     * You will appreciate the role of randomness in molecular diffusion.
-* Feb-04: **Pandas and simple file I/O**
 
 * Feb-09: **Functions, classes and modules**
 * Feb-11: **Algorithms, pseudocode, readability, optimization, Numba**

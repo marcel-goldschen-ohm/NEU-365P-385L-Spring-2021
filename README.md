@@ -32,13 +32,13 @@ There are no prerequisites for the course. *However, you are expected to be fami
 ## Course Details
 
 * Time: TR 2:00-3:30 PM
-* Location: Online ONLY via Zoom. See course Canvas page for Zoom link.
+* Location: Online ONLY via Zoom. See course Canvas page for Zoom links.
 * Instructor: Marcel Goldschen-Ohm
     * Office hours: ...
-    * Email: goldschen-ohm@utexas.edu (**!!! Please include `neu365-2021` in the subject line**)
+    * Email: goldschen-ohm@utexas.edu (**!!! Please include `neu365-2021` or `neu385-2021` in the subject line**)
 * TA: Anthony Dutcher
     * Office hours: ...
-    * Email: amdutcher@utexas.edu (**!!! Please include `neu365-2021` in the subject line**)
+    * Email: amdutcher@utexas.edu (**!!! Please include `neu365-2021` or `neu385-2021` in the subject line**)
  
 ## I'm confused, but my schedule makes attending office hours difficult. What do I do?
 
@@ -54,11 +54,15 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 ## Grading
 
+Weekly homework will be worth 1/2 to 2/3 of your grade (TBD).
+A midterm and final exam will make up the rest of your grade.
+
 ## Homework
 
 Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to name the file `your_full_name.ipynb`.** :warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
 
-* :pencil2: **Due Jan-22**: if/elif/else
+:warning: Please note that the following homework list is tentative and subject to change.
+
 * :pencil2: **Due Jan-29**: lists
 * :pencil2: **Due Feb-05**: numpy and pandas
 * :pencil2: **Due Feb-12**: random walks
@@ -75,7 +79,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 ## Syllabus
 
-:warning: Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
+:warning: Please note that the syllabus is subject to change.
 
 > 29 lectures, Midterm exam, Final exam
 

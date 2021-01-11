@@ -36,7 +36,7 @@ There are no prerequisites for the course. *However, you are expected to be fami
 * Instructor: Marcel Goldschen-Ohm
     * Office hours: ...
     * Email: goldschen-ohm@utexas.edu (**!!! Please include `neu365-2021` or `neu385-2021` in the subject line**)
-* TA: Anthony Dutcher
+* TA: Tony Dutcher
     * Office hours: ...
     * Email: amdutcher@utexas.edu (**!!! Please include `neu365-2021` or `neu385-2021` in the subject line**)
  

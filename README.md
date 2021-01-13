@@ -102,7 +102,9 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to manipulate multi-dimensional data arrays using NumPy.
     * You will be able to time your code.
     * You will appreciate that without NumPy, Python would NOT be a very useful language for data analysis.
-* Jan-28: **Pandas and simple file I/O**
+* Jan-28: **Pandas**
+    * You will be able to visualize and manipulate tablular data similar to that in a spread sheet.
+    * You will be able to convert data back and forth between standard spread sheet files and Pandas.
 
 * Feb-02: **Visualizing data**
     * You will be able to visualize data with basic plots using Matplotlib.

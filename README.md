@@ -34,10 +34,10 @@ There are no prerequisites for the course. *However, you are expected to be fami
 * Time: TR 2:00-3:30 PM
 * Location: Online ONLY via Zoom. See course Canvas page for Zoom links.
 * Instructor: Marcel Goldschen-Ohm
-    * Office hours: ...
+    * Office hours: T 3:30-5:00 PM (see Canvas announcement for Zoom link)
     * Email: goldschen-ohm@utexas.edu (**!!! Please include `neu365-2021` or `neu385-2021` in the subject line**)
 * TA: Tony Dutcher
-    * Office hours: ...
+    * Office hours: F 9:00-10:30 AM (see Canvas announcement for Zoom link)
     * Email: amdutcher@utexas.edu (**!!! Please include `neu365-2021` or `neu385-2021` in the subject line**)
  
 ## I'm confused, but my schedule makes attending office hours difficult. What do I do?

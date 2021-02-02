@@ -90,6 +90,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to assign variables.
     * You will be able to logically compare variables and values.
     * You will understand Python code blocks.
+    * You will understand how code blocks can be nested.
     * You will be able to conditionally execute code blocks.
 * Jan-21: **Lists and loops**
     * You will be able to index into lists.
@@ -132,10 +133,10 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Mar-18: SPRING BREAK
 
 * Mar-23: **Maximum likelihood estimation**
-* Mar-25: **Hidden Markov models
+* Mar-25: **Hidden Markov models**
 
-* Mar-30: **Hidden Markov models
-* Apr-01: **Hidden Markov models
+* Mar-30: **Hidden Markov models**
+* Apr-01: **Hidden Markov models**
 
 * Apr-06: **Linear regression**
 * Apr-08: **Multiple linear regression**

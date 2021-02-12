@@ -115,6 +115,11 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will appreciate the role of randomness in molecular diffusion.
 
 * Feb-09: **Functions, classes and modules**
+    * You will be able to understand and write your own Python functions.
+    * You will understand the basics of Python class objects.
+    * You will be able to write and use your own classes.
+    * You will understand the basics of Python modules.
+    * You will be able to write and use your own modules.
 * Feb-11: **Algorithms, pseudocode, readability, optimization, Numba**
 
 * Feb-16: **Time series and Fourier transform**

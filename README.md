@@ -120,18 +120,21 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to write and use your own classes.
     * You will understand the basics of Python modules.
     * You will be able to write and use your own modules.
-* Feb-11: **Algorithms, pseudocode, readability, optimization, Numba**
+* Feb-11: **Algorithms, pseudocode and optimization with Numba**
+    * You will practice writing pseudocode for several algorithms.
+    * You will practice translating your pseudocode to code.
+    * You will be able to use Numba to potentially accelerate your functions.
 
-* Feb-16: **Time series and Fourier transform**
-* Feb-18: **Convolution and filtering**
+* Feb-16: CANCELED DUE TO WINTER STORM
+* Feb-18: **Probability distributions of random variables**
 
-* Feb-23: **Probability distributions of random variables**
-* Feb-25: **Hypothesis testing and the central limit theorem**
+* Feb-23: **Hypothesis testing and the central limit theorem**
+* Feb-25: **Bootstrap and permutation tests**
 
-* Mar-02: **Bootstrap and permutation tests**
-* Mar-04: **Curve fitting**
+* Mar-02: **Time series and Fourier transform**
+* Mar-04: **Convolution and filtering**
 
-* Mar-09:
+* Mar-09: **Curve fitting**
 * Mar-11: **MIDTERM EXAM**
 
 * Mar-16: SPRING BREAK

@@ -65,11 +65,11 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 * :pencil2: **Due Jan-29**: lists
 * :pencil2: **Due Feb-05**: numpy and pandas
-* :pencil2: **Due Feb-12**: random walks
-* :pencil2: **Due Feb-19**: algorithm and custom module
-* :pencil2: **Due Feb-26**: time series, convolution, and filtering
-* :pencil2: **Due Mar-05**: probability distributions and hypothesis testing
-* :pencil2: **Due Mar-12**: bootstrap/permutation tests and curve fitting
+* :pencil2: **Due Feb-26**: random walks
+* :pencil2: **Due Feb-26**: algorithms
+* :pencil2: **Due Mar-05**: probability distributions
+* :pencil2: **Due Mar-12**: bootstrap and permutation tests
+* :pencil2: **Due Mar-12**: time series, convolution, and filtering
 * :pencil2: **Due Apr-02**: maximum likelihood estimation
 * :pencil2: **Due Apr-09**: hidden Markov model
 * :pencil2: **Due Apr-16**: multiple linear regression
@@ -126,21 +126,37 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to use Numba to potentially accelerate your functions.
 
 * Feb-16: CANCELED DUE TO WINTER STORM
-* Feb-18: **Probability distributions of random variables**
+* Feb-18: CANCELED DUE TO WINTER STORM
 
-* Feb-23: **Hypothesis testing and the central limit theorem**
-* Feb-25: **Bootstrap and permutation tests**
+* Feb-23: CANCELED DUE TO WINTER STORM
+* Feb-25: **Probability distributions of random variables**
+    * You will understand the difference between discrete and continuous probability distributions.
+    * You will understand the difference between a probability and a probability density.
+    * You will be able to use the SciPy stats module to work with probability distributions.
+    * You will know under what circumstances you might apply binomial, Poisson, exponential or normal distributions.
 
-* Mar-02: **Time series and Fourier transform**
-* Mar-04: **Convolution and filtering**
+* Mar-02: **Hypothesis testing**
+    * You will understand the difference between a population distribution and a distribution of sample statistics.
+    * You will be introduced to the Central Limit theorem.
+    * You will be able to compute a p-value and understand what it means.
+    * You will appreciate that statistical inference does not imply certainty.
+    * You will be able to compare normal-ish distributions using t-tests.
+    * You will be able to generate bootstrap confidence intervals.
+    * You will be able to test for differences in two samples using a permutation test.
+* Mar-04: **Time series, Fourier transform, convolution and filtering**
+    * You wil understand the difference between a time series and a distribution of random values.
+    * You will be able to use a Fourier transform to see the frequency representation of a time series.
+    * You will be able to visualize a time series as a spectrogram.
+    * You will understand the importance of sampling and aliasing artifacts.
+    * You will be able to convolve and filter a time series.
 
-* Mar-09: **Curve fitting**
+* Mar-09: **Time series**
 * Mar-11: **MIDTERM EXAM**
 
 * Mar-16: SPRING BREAK
 * Mar-18: SPRING BREAK
 
-* Mar-23: **Maximum likelihood estimation**
+* Mar-23: **Curve fitting and Maximum likelihood estimation**
 * Mar-25: **Hidden Markov models**
 
 * Mar-30: **Hidden Markov models**
@@ -158,8 +174,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Apr-27: **Principal component analysis**
 * Apr-29: **Principal component analysis**
 
-* May-04:
-* May-06:
+* May-04: TBA
+* May-06: TBA
 
 * May-??: **FINAL EXAM**
 

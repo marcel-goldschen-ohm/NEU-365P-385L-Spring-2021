@@ -68,14 +68,9 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * :pencil2: **Due Feb-26**: random walks
 * :pencil2: **Due Feb-26**: algorithms
 * :pencil2: **Due Mar-05**: probability distributions
-* :pencil2: **Due Mar-12**: bootstrap and permutation tests
-* :pencil2: **Due Mar-12**: time series, convolution, and filtering
-* :pencil2: **Due Apr-02**: maximum likelihood estimation
-* :pencil2: **Due Apr-09**: hidden Markov model
-* :pencil2: **Due Apr-16**: multiple linear regression
-* :pencil2: **Due Apr-23**: ridge/lasso regression and cross validation
-* :pencil2: **Due Apr-30**: nonlinear regression and classification
-* :pencil2: **Due May-07**: principal component analysis
+* :pencil2: **Due Mar-12**: hypothesis testing
+* :pencil2: **Due Mar-23**: bootstrap confidence interval (EXTRA CREDIT)
+* TBD (see Canvas)
 
 ## Syllabus
 
@@ -141,16 +136,17 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * You will be able to compute a p-value and understand what it means.
     * You will appreciate that statistical inference does not imply certainty.
     * You will be able to compare normal-ish distributions using t-tests.
-    * You will be able to generate bootstrap confidence intervals.
     * You will be able to test for differences in two samples using a permutation test.
-* Mar-04: **Time series, Fourier transform, convolution and filtering**
+* Mar-04: **Hypothesis testing and Bootstrap**
+    * You will be able to test for differences in two samples using a permutation test.
+    * You will be able to generate bootstrap confidence intervals.
+
+* Mar-09: **Time series, Fourier transform, convolution and filtering**
     * You wil understand the difference between a time series and a distribution of random values.
     * You will be able to use a Fourier transform to see the frequency representation of a time series.
     * You will be able to visualize a time series as a spectrogram.
     * You will understand the importance of sampling and aliasing artifacts.
     * You will be able to convolve and filter a time series.
-
-* Mar-09: **Time series**
 * Mar-11: **MIDTERM EXAM**
 
 * Mar-16: SPRING BREAK

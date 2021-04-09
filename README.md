@@ -173,7 +173,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * May-04: TBA
 * May-06: TBA
 
-* May-??: **FINAL EXAM**
+* May-18: **FINAL EXAM** 2:00-5:00 PM
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
